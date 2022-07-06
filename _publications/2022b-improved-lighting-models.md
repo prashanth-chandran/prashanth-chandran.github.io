@@ -6,17 +6,17 @@ excerpt: We compare the results obtained with a state-of-the-art appearance capt
 date: 2022-04-05
 venue: 'Eurographics'
 bibtex: "
-@inproceedings {10.2312:egs.20221019, 
-booktitle = {Eurographics 2022 - Short Papers}, 
-editor = {Pelechano, Nuria and Vanderhaeghe, David}, 
-title = {{Improved Lighting Models for Facial Appearance Capture}},
-author = {Xu, Yingyan and Riviere, Jérémy and Zoss, Gaspard and Chandran, Prashanth and
-Bradley, Derek and Gotardo, Paulo}, 
-year = {2022}, 
-publisher = {The Eurographics Association}, 
-ISSN = {1017-4656}, 
-ISBN = {978-3-03868-169-4}, 
-DOI = {10.2312/egs.20221019} 
+@inproceedings {10.2312:egs.20221019,<br>
+booktitle = {Eurographics 2022 - Short Papers}, <br>
+editor = {Pelechano, Nuria and Vanderhaeghe, David}, <br>
+title = {{Improved Lighting Models for Facial Appearance Capture}}, <br>
+author = {Xu, Yingyan and Riviere, Jérémy and Zoss, Gaspard and Chandran, Prashanth and <br>
+Bradley, Derek and Gotardo, Paulo}, <br>
+year = {2022}, <br>
+publisher = {The Eurographics Association}, <br>
+ISSN = {1017-4656}, <br>
+ISBN = {978-3-03868-169-4}, <br>
+DOI = {10.2312/egs.20221019} <br>
 }
 "
 ---
