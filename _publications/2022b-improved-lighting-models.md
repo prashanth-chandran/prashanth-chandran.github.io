@@ -2,20 +2,21 @@
 title: "Improved Lighting Models for Facial Appearance Capture"
 collection: publications
 permalink: /publication/2022b-improved-lighting-models
-excerpt: We compare the results obtained with a state-of-the-art appearance capture method [RGB∗20], with and without our proposed improvements to the lighting model. [[Project Page]](https://studios.disneyresearch.com/2022/04/25/improved-lighting-models-for-facial-appearance-capture/)'
+excerpt: We compare the results obtained with a state-of-the-art appearance capture method, with and without our proposed improvements to the lighting model. [[Project Page]](https://studios.disneyresearch.com/2022/04/25/improved-lighting-models-for-facial-appearance-capture/)'
 date: 2022-04-05
 venue: 'Eurographics'
 bibtex: "
-@inproceedings {10.2312:egs.20221019,
-booktitle = {Eurographics 2022 - Short Papers},
-editor = {Pelechano, Nuria and Vanderhaeghe, David},
+@inproceedings {10.2312:egs.20221019, 
+booktitle = {Eurographics 2022 - Short Papers}, 
+editor = {Pelechano, Nuria and Vanderhaeghe, David}, 
 title = {{Improved Lighting Models for Facial Appearance Capture}},
-author = {Xu, Yingyan and Riviere, Jérémy and Zoss, Gaspard and Chandran, Prashanth and Bradley, Derek and Gotardo, Paulo},
-year = {2022},
-publisher = {The Eurographics Association},
-ISSN = {1017-4656},
-ISBN = {978-3-03868-169-4},
-DOI = {10.2312/egs.20221019}
+author = {Xu, Yingyan and Riviere, Jérémy and Zoss, Gaspard and Chandran, Prashanth and
+Bradley, Derek and Gotardo, Paulo}, 
+year = {2022}, 
+publisher = {The Eurographics Association}, 
+ISSN = {1017-4656}, 
+ISBN = {978-3-03868-169-4}, 
+DOI = {10.2312/egs.20221019} 
 }
 "
 ---
