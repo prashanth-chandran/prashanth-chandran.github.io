@@ -12,11 +12,14 @@ redirect_from:
 Education
 ======
 * B.S. in Electronics and Communications Engineering, Anna University, Chennai, India, 2013
+* Post Graduate Diploma in Business Administration, Symbiosis Institute, Pune, 2016
 * M.S. in Electrical Engineering and Information Technology, ETH Zurich, Switzerland, 2018
 * Ph.D in Computer Graphics, ETH Zurich, Switzerland, 2022 (expected)
 
 Work experience
 ======
+* June 2022 - Present: Associate Research Scientist
+  * Digital Humans Group, Disney Research\|Studios
 * March 2017 - Feb 2018: Research Intern
   * Digital Humans Group, Disney Research\|Studios
   * Topic: Geometry Processing
@@ -38,7 +41,7 @@ Skills
 * Deep learning frameworks
   * pytorch, pytorch3D, basic tensorflow
 * Development tools 
-  * Visual Studio, Git
+  * Visual Studio, QT
 * Operating Systems
   * linux, Windows, mac, and RTOS
 * Languages Known
