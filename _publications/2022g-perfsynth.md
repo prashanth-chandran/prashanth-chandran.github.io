@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022g-perfsynth
 excerpt: '
 We propose a 3D+time framework for modeling dynamic sequences of 3D facial shapes, representing realistic non-rigid motion during a performance. [[Project Page]](https://studios.disneyresearch.com/2022/09/13/facial-animation-with-disentangled-identity-and-motion-using-transformers/)'
-date: 2022-13-09
+date: 2022-09-13
 venue: 'ACM/Eurographics Symposium on Computer Animation'
 bibtex: "
 @article{https://doi.org/10.1111/cgf.14641, <br>
