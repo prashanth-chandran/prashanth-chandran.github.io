@@ -14,7 +14,7 @@ Education
 * B.S. in Electronics and Communications Engineering, Anna University, Chennai, India, 2013
 * Post Graduate Diploma in Business Administration, Symbiosis Institute, Pune, 2016
 * M.S. in Electrical Engineering and Information Technology, ETH Zurich, Switzerland, 2018
-* Ph.D in Computer Graphics, ETH Zurich, Switzerland, 2022 (expected)
+* Ph.D in Computer Graphics, ETH Zurich, Switzerland, 2023
 
 Work experience
 ======

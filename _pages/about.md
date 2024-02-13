@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hey !"
+title: "Prashanth Chandran"
 author_profile: true
 redirect_from: 
   - /about/
