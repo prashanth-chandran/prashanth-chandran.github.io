@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Research Scientist at [Disney Research\|Studios](https://studios.disneyresearch.com/) and am a member of the [Digital Humans group](https://studios.disneyresearch.com/digital-humans/). 
+I am an Associate Research Scientist at [Disney Research\|Studios](https://studios.disneyresearch.com/) and am a member of the [Facial VFX group](https://studios.disneyresearch.com/digital-humans/). 
 
 I was previously a joint PhD student of the [Computer Graphics Lab](https://cgl.ethz.ch/) at ETH Zurich and [Disney Research\|Studios](https://studios.disneyresearch.com/), and was advised by [Prof. Markus Gross](https://inf.ethz.ch/people/person-detail.mgross.html), and  co-supervised by [Dr. Derek Bradley](https://studios.disneyresearch.com/people/derek-bradley/). 
 
