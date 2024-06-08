@@ -32,7 +32,7 @@ Work experience
 * Summer 2012: Summer Research Internship at IIT Madras’s [Visualization and Perception Lab](http://www.cse.iitm.ac.in/~vplab/)
   * Indian Institute of Technology Madras
   * Topic: Content Based Video Retrieval
-  * Supervisor(s): Professor Sukhendu Das
+  * Supervisor(s): Prof. Dr. Sukhendu Das
   
 Skills
 ======

@@ -7,13 +7,13 @@ We propose the first facial landmark detection network that can predict continuo
 date: 2023-06-04
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
 bibtex: "
-@InProceedings{Chandran_2023_CVPR,
-    author    = {Chandran, Prashanth and Zoss, Gaspard and Gotardo, Paulo and Bradley, Derek},
-    title     = {Continuous Landmark Detection With 3D Queries},
-    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-    month     = {June},
-    year      = {2023},
-    pages     = {16858-16867}
+@InProceedings{Chandran_2023_CVPR,<br>
+    author    = {Chandran, Prashanth and Zoss, Gaspard and Gotardo, Paulo and Bradley, Derek},<br>
+    title     = {Continuous Landmark Detection With 3D Queries},<br>
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
+    month     = {June},<br>
+    year      = {2023},<br>
+    pages     = {16858-16867}<br>
 }
 "
 ---
