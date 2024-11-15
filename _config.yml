@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Prashanth Chandran"
 title_separator          : "-"
 name                     : &name "Prashanth Chandran"
-description              : &description "Associate Research Scientist"
+description              : &description "Research Scientist"
 url                      : https://prashanth-chandran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "prashanth-chandran/prashanth-chandran.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Prashanth Chandran"
   avatar           : "profile-looren.jpg"
-  bio              : "Associate Research Scientist"
+  bio              : "Research Scientist"
   location         : "Zurich, Switzerland"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=5_6WiFQAAAAJ&hl=en&oi=ao"
-  email            : "prashanth.chandran@disneyresearch.com"
+  email            : "prashanthchandran.pc@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Prashanth-Chandran-2"
   uri              :
   bitbucket        :
