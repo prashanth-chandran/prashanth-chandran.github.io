@@ -2,11 +2,13 @@
 
 Hey there !
 
-I am an Associate Research Scientist at [Disney Research\|Studios](https://studios.disneyresearch.com/) and am a member of the [Digital Humans group](https://studios.disneyresearch.com/digital-humans/). 
+I am a Research Scientist (Machine Learning) at Google [AR/VR](https://arvr.google.com/). 
 
-I was previously a joint PhD student of the [Computer Graphics Lab](https://cgl.ethz.ch/) at ETH Zurich and [Disney Research\|Studios](https://studios.disneyresearch.com/), and was advised by [Prof. Markus Gross](https://inf.ethz.ch/people/person-detail.mgross.html), and  co-supervised by [Dr. Derek Bradley](https://studios.disneyresearch.com/people/derek-bradley/). 
+My research interests span the broad areas of performance capture, animation, neural rendering, generative models, and deep learning. I generally enjoy working on creative applications at the intersection of computer vision, graphics, and machine learning. Please take a look at some of my publications to know more about my work :) 
 
-My research interests span the broad areas of performance capture, deep learning, animation, neural rendering, generative models, and generally anything to do with computer vision/graphics. Please take a look at some of my publications to know more about my work :) 
+Previosuly I was an Associate Research Scientist at [Disney Research\|Studios](https://studios.disneyresearch.com/) and a member of the [Facial VFX group](https://studios.disneyresearch.com/digital-humans/).
+
+I completed my PhD from the [Computer Graphics Lab](https://cgl.ethz.ch/) at ETH Zurich and [Disney Research\|Studios](https://studios.disneyresearch.com/), where I was advised by [Prof. Markus Gross](https://inf.ethz.ch/people/person-detail.mgross.html), and  co-supervised by [Dr. Derek Bradley](https://studios.disneyresearch.com/people/derek-bradley/). 
 
 Before my PhD, I completed my Masters in the [Department of Electrical Engineering and Information Technology](https://ee.ethz.ch/), also at ETH Zurich, where my focus was on machine learning and computer vision. 
 

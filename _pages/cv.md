@@ -18,7 +18,9 @@ Education
 
 Work experience
 ======
-* June 2022 - Present: Associate Research Scientist
+* Nov 2024 - Present: Research Scientist, Machine Learning
+  * Google AR/VR
+* June 2022 - Nov 2024: Associate Research Scientist
   * Digital Humans Group, Disney Research\|Studios
 * March 2017 - Feb 2018: Research Intern
   * Digital Humans Group, Disney Research\|Studios
