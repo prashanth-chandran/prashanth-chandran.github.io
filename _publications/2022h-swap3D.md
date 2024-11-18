@@ -2,8 +2,8 @@
 title: "Learning Dynamic 3D Geometry and Texture for Video Face Swapping"
 collection: publications
 permalink: /publication/2022h-swap3D
-excerpt: '
-We approach the problem of face swapping from the perspective of learning simultaneous convolutional facial autoencoders for the source and target identities, using a shared encoder network with identity-specific decoders. [[Project Page]](https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/)'
+teaser: /images/swap2022.png
+excerpt: We approach the problem of face swapping from the perspective of learning simultaneous convolutional facial autoencoders for the source and target identities, using a shared encoder network with identity-specific decoders. [[Project Page]](https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/)<br><br>
 date: 2022-10-05
 venue: 'Pacific Graphics'
 bibtex: "

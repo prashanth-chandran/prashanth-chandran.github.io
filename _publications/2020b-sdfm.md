@@ -2,7 +2,8 @@
 title: "Semantic Deep Face Models"
 collection: publications
 permalink: /publication/2020b-sdfm
-excerpt: 'We present a method for nonlinear 3D face modeling using neural architectures. [[Project Page]](https://studios.disneyresearch.com/2020/11/25/semantic-deep-face-models/)'
+teaser: /images/sdfm2020.png
+excerpt: We present a method for nonlinear 3D face modeling using neural architectures. [[Project Page]](https://studios.disneyresearch.com/2020/11/25/semantic-deep-face-models/)<br><br><br><br>
 date: 2020-09-25
 venue: '3D International Conference on 3D Vision (3DV)'
 bibtex: "

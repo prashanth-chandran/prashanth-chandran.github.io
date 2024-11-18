@@ -2,7 +2,8 @@
 title: "Rendering with Style: Combining Traditional and Neural Approaches for High-Quality Face Rendering"
 collection: publications
 permalink: /publication/2021b-render-with-style
-excerpt: 'We propose to combine incomplete, high-quality renderings showing only facial skin with recent methods for neural rendering of faces, in order to automatically and seamlessly create photo-realistic full-head portrait renders from captured data without the need for artist intervention. [[Project Page]](https://studios.disneyresearch.com/2021/11/30/rendering-with-style-combining-traditional-and-neural-approaches-for-high-quality-face-rendering/)'
+teaser: /images/rws2021.png
+excerpt: We propose to combine incomplete, high-quality renderings showing only facial skin with recent methods for neural rendering of faces, in order to automatically and seamlessly create photo-realistic full-head portrait renders from captured data without the need for artist intervention. [[Project Page]](https://studios.disneyresearch.com/2021/11/30/rendering-with-style-combining-traditional-and-neural-approaches-for-high-quality-face-rendering/)
 date: 2021-09-30
 venue: 'ACM SIGGRAPH Asia'
 bibtex: "

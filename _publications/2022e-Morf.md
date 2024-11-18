@@ -2,8 +2,8 @@
 title: "MoRF: Morphable Radiance Fields for Multiview Neural Head Modeling"
 collection: publications
 permalink: /publication/2022e-Morf
-excerpt: '
-We demonstrate how MoRF is a strong new step towards 3D morphable neural head modeling. [[Project Page]](https://studios.disneyresearch.com/2022/07/24/morf-morphable-radiance-fields-for-multiview-neural-head-modeling/)'
+teaser: /images/morf2022.png
+excerpt: We demonstrate how MoRF is a strong new step towards 3D morphable neural head modeling. [[Project Page]](https://studios.disneyresearch.com/2022/07/24/morf-morphable-radiance-fields-for-multiview-neural-head-modeling/)<br><br><br>
 date: 2022-07-24
 venue: 'Siggraph'
 bibtex: "

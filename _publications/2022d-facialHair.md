@@ -2,8 +2,8 @@
 title: "Facial Hair Tracking for High Fidelity Performance Capture"
 collection: publications
 permalink: /publication/2022d-facialHair
-excerpt: '
-We demonstrate the proposed capture pipeline on a variety of different facial hair styles and lengths, ranging from sparse and short to dense full-beards. [[Project Page]](https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/)'
+teaser: /images/hair2022.png
+excerpt: We demonstrate the proposed capture pipeline on a variety of different facial hair styles and lengths, ranging from sparse and short to dense full-beards. [[Project Page]](https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/)<br><br><br>
 date: 2022-07-24
 venue: 'Siggraph'
 bibtex: "

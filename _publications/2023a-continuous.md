@@ -2,8 +2,8 @@
 title: "Continuous Landmark Detection With 3D Queries"
 collection: publications
 permalink: /publication/2023a-continuous
-excerpt: '
-We propose the first facial landmark detection network that can predict continuous, unlimited landmarks, allowing to specify the number and location of the desired landmarks at inference time. Our method combines a simple image feature extractor with a queried landmark predictor, and the user can specify any continuous query points relative to a 3D template face mesh as input. [[Project Page]](https://studios.disneyresearch.com/2023/06/04/continuous-landmark-detection-with-3d-queries/)'
+teaser: /images/cont2023.png
+excerpt: We propose the first facial landmark detection network that can predict continuous, unlimited landmarks, allowing to specify the number and location of the desired landmarks at inference time. [[Project Page]](https://studios.disneyresearch.com/2023/06/04/continuous-landmark-detection-with-3d-queries/)<br><br>
 date: 2023-06-04
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
 bibtex: "

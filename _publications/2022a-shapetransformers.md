@@ -2,7 +2,8 @@
 title: "Shape Transformers: Topology-Independent 3D Shape Models Using Transformers"
 collection: publications
 permalink: /publication/2022a-shapetransformers
-excerpt: 'We present a new nonlinear parametric 3D shape model based on transformer architectures.  [[Project Page]](https://studios.disneyresearch.com/2022/04/25/shape-transformers-topology-independent-3d-shape-models-using-transformers/)'
+teaser: /images/st2022.png
+excerpt: We present a new nonlinear parametric 3D shape model based on transformer architectures.  [[Project Page]](https://studios.disneyresearch.com/2022/04/25/shape-transformers-topology-independent-3d-shape-models-using-transformers/)<br><br>
 date: 2022-04-05
 venue: 'Eurographics'
 bibtex: "

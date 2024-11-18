@@ -2,7 +2,8 @@
 title: "Local Anatomically – Constrained Facial Performance Retargeting"
 collection: publications
 permalink: /publication/2022c-pbsalm
-excerpt: 'We present a new method for high-fidelity offline facial performance retargeting that is neither expensive nor artifact-prone.  [[Project Page]](https://studios.disneyresearch.com/2022/07/24/local-anatomically-constrained-facial-performance-retargeting/)'
+teaser: /images/pbs2022.png
+excerpt: We present a new method for high-fidelity offline facial performance retargeting that is neither expensive nor artifact-prone.  [[Project Page]](https://studios.disneyresearch.com/2022/07/24/local-anatomically-constrained-facial-performance-retargeting/)<br><br><br>
 date: 2022-07-24
 venue: 'Siggraph'
 bibtex: "

@@ -2,7 +2,8 @@
 title: "Attention-Driven Cropping for Very High Resolution Facial Landmark Detection"
 collection: publications
 permalink: /publication/2020a-attention-driven-cropping
-excerpt: "Facial landmark detection is a fundamental task for many consumer and high-end applications and is almost entirely solved by machine learning methods today.  [[Project Page]](https://studios.disneyresearch.com/2020/06/16/attention-driven-cropping-for-very-high-resolution-facial-landmark-detection/)"
+teaser: /images/adc2020.png
+excerpt: Facial landmark detection is a fundamental task for many consumer and high-end applications and is almost entirely solved by machine learning methods today.  [[Project Page]](https://studios.disneyresearch.com/2020/06/16/attention-driven-cropping-for-very-high-resolution-facial-landmark-detection/) <br><br>
 date: 2020-06-16
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
 bibtex: "

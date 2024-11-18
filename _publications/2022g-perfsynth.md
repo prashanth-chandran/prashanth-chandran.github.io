@@ -2,8 +2,8 @@
 title: "Facial Animation with Disentangled Identity and Motion using Transformers"
 collection: publications
 permalink: /publication/2022g-perfsynth
-excerpt: '
-We propose a 3D+time framework for modeling dynamic sequences of 3D facial shapes, representing realistic non-rigid motion during a performance. [[Project Page]](https://studios.disneyresearch.com/2022/09/13/facial-animation-with-disentangled-identity-and-motion-using-transformers/)'
+teaser: /images/perf2022.png
+excerpt: We propose a 3D+time framework for modeling dynamic sequences of 3D facial shapes, representing realistic non-rigid motion during a performance. [[Project Page]](https://studios.disneyresearch.com/2022/09/13/facial-animation-with-disentangled-identity-and-motion-using-transformers/)<br><br>
 date: 2022-09-13
 venue: 'ACM/Eurographics Symposium on Computer Animation'
 bibtex: "

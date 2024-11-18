@@ -2,7 +2,8 @@
 title: "Improved Lighting Models for Facial Appearance Capture"
 collection: publications
 permalink: /publication/2022b-improved-lighting-models
-excerpt: We compare the results obtained with a state-of-the-art appearance capture method, with and without our proposed improvements to the lighting model. [[Project Page]](https://studios.disneyresearch.com/2022/04/25/improved-lighting-models-for-facial-appearance-capture/)'
+teaser: /images/app2022.png
+excerpt: We compare the results obtained with a state-of-the-art appearance capture method, with and without our proposed improvements to the lighting model. [[Project Page]](https://studios.disneyresearch.com/2022/04/25/improved-lighting-models-for-facial-appearance-capture/) <br><br><br>
 date: 2022-04-05
 venue: 'Eurographics'
 bibtex: "

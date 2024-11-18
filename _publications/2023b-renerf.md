@@ -2,8 +2,8 @@
 title: "ReNeRF: Relightable Neural Radiance Fields with Nearfield Lighting"
 collection: publications
 permalink: /publication/2023b-renerf
-excerpt: '
-In this paper, we target the application scenario of capturing high-fidelity assets for neural relighting in controlled studio conditions, but without requiring a dense light stage. Instead, we leverage a small number of area lights commonly used in photogrammetry. [[Project Page]](https://studios.disneyresearch.com/2023/10/02/renerf-relightable-neural-radiance-fields-with-nearfield-lighting/)'
+teaser: /images/renerf2023.png
+excerpt: In this paper, we target the application scenario of capturing high-fidelity assets for neural relighting in controlled studio conditions, but without requiring a dense light stage. Instead, we leverage a small number of area lights commonly used in photogrammetry. [[Project Page]](https://studios.disneyresearch.com/2023/10/02/renerf-relightable-neural-radiance-fields-with-nearfield-lighting/)<br><br>
 date: 2023-10-02
 venue: 'International Conference on Computer Vision (ICCV)'
 bibtex: "

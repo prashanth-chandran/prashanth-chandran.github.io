@@ -2,8 +2,8 @@
 title: "Production-Ready Face Re-Aging for Visual Effects"
 collection: publications
 permalink: /publication/2022f-Reaging
-excerpt: '
-We demonstrate how the simple U-Net, surprisingly, allows us to advance the state of the art for re-aging real faces on video, with unprecedented temporal stability and preservation of facial identity across variable expressions, viewpoints, and lighting conditions. [[Project Page]](https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/)'
+teaser: /images/fran2022.png
+excerpt: We demonstrate how the simple U-Net, surprisingly, allows us to advance the state of the art for re-aging real faces on video, with unprecedented temporal stability and preservation of facial identity across variable expressions, viewpoints, and lighting conditions. [[Project Page]](https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/)<br><br>
 date: 2022-11-30
 venue: 'Siggraph Asia'
 bibtex: "
