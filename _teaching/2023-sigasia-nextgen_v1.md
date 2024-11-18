@@ -3,6 +3,7 @@ title: "Next Generation 3D Face Models"
 collection: teaching
 type: "Course"
 permalink: /teaching/nextgen-sigasia-2023
+teaser: /images/coursesigasia2023.png
 venue: "Siggraph Asia 2023, Sydney"
 date: 2023-12-06
 location: "Sydney, Australia"
