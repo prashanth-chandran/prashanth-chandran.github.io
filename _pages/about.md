@@ -14,7 +14,7 @@ Previously I was an Associate Research Scientist at [Disney Research\|Studios](h
 I received my bachelor's degree in Electronics and Communications Engineering in 2013 from the [Madras Institute of Technology](https://www.annauniv.edu/) and later worked for 3 years at [Caterpillar Inc.](https://www.caterpillar.com/) as an embedded electronics engineer. 
 
 ---
-*Recent Publications* ([view more](/_publications/))
+*Recent Publications* ([view more](/publications/))
 
 | <img style="float: left;width:200px;" src="images/sbt2024.png"> &nbsp;&nbsp; **Spline-based Transformers** <br/> &nbsp;&nbsp; ECCV 2024 **(Oral)** <br/> &nbsp;&nbsp; [Project Page](https://la.disneyresearch.com/publication/spline-based-transformers/) |
 | <img style="float: left;width:200px;" src="images/physface2024.png"> &nbsp;&nbsp; **Learning a Generalized Physical Face Model From Data** <br/> &nbsp;&nbsp; Siggraph 2024 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2024/07/28/learning-a-generalized-physical-face-model-from-data/) |
