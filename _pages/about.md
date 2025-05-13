@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist (Machine Learning) at [Google AR/VR](https://arvr.google.com/). My current research interests span the areas of performance capture, animation, neural rendering, generative models, and deep learning, but I generally enjoy working on any creative application at the intersection of computer vision, graphics, and machine learning.  Please take a look at some of my [publications](/publications/) to know more about my work :)
+I am a Research Scientist (Machine Learning) at [Google AR/VR](https://arvr.google.com/). My current research interests span the areas of performance capture, animation, neural rendering, generative models, and deep learning. I generally enjoy working on any creative application at the intersection of computer vision, graphics, and machine learning.  Please take a look at some of my [publications](/publications/) to know more about my work :)
 
 Previously I was an Associate Research Scientist at [Disney Research\|Studios](https://studios.disneyresearch.com/) and a member of the [Facial VFX group](https://studios.disneyresearch.com/digital-humans/). 
 
@@ -16,6 +16,7 @@ I completed my PhD from the [Computer Graphics Lab](https://cgl.ethz.ch/) at ETH
 ---
 *Recent Publications* ([view more](/publications/))
 
+| <img style="float: left;width:100px;" src="images/nfdt2025.png"> &nbsp;&nbsp; **Neural Facial Deformation Transfer** <br/> &nbsp;&nbsp; Eurographics 2025 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2025/05/11/neural-facial-deformation-transfer/) |
 | <img style="float: left;width:100px;" src="images/sbt2024.png"> &nbsp;&nbsp; **Spline-based Transformers** <br/> &nbsp;&nbsp; ECCV 2024 **(Oral)** <br/> &nbsp;&nbsp; [Project Page](https://la.disneyresearch.com/publication/spline-based-transformers/) |
 | <img style="float: left;width:100px;" src="images/physface2024.png"> &nbsp;&nbsp; **Learning a Generalized Physical Face Model From Data** <br/> &nbsp;&nbsp; Siggraph 2024 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2024/07/28/learning-a-generalized-physical-face-model-from-data/) |
 | <img style="float: left;width:100px;" src="images/inf3d2024.png"> &nbsp;&nbsp; **Infinite 3D Landmarks: Improving Continuous 2D Facial Landmark Detection** <br/> &nbsp;&nbsp; Computer Graphics Forum 2024 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2024/06/07/infinite-3d-landmarks-improving-continuous-2d-facial-landmark-detection/) |
