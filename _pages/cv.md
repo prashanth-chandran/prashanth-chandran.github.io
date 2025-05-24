@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronics and Communications Engineering, Anna University, Chennai, India, 2013
+* Ph.D from D-INFK, Computer Graphics Lab, ETH Zurich, Switzerland, 2023
+* M.Sc from D-ITET, ETH Zurich, Switzerland, 2018
 * Post Graduate Diploma in Business Administration, Symbiosis Institute, Pune, 2016
-* M.S. in Electrical Engineering and Information Technology, ETH Zurich, Switzerland, 2018
-* Ph.D in Computer Graphics, ETH Zurich, Switzerland, 2023
+* B.E. in Electronics and Communications Engineering, Anna University, Chennai, India, 2013
 
 Work experience
 ======
@@ -39,15 +39,11 @@ Work experience
 Skills
 ======
 * Programming Languages
-  * C, C++, Python, MATLAB, basic CUDA, basic Java
-* Deep learning frameworks
-  * pytorch, pytorch3D, basic tensorflow
-* Development tools 
-  * Visual Studio, QT
-* Operating Systems
-  * linux, Windows, mac, and RTOS
+  * Python, C++, C
+* ML frameworks
+  * pytorch, tensorflow, jax
 * Languages Known
-  * English (C1), French (A2), German (B1), Tamil (Mother Tongue), Hindi and Sanskrit
+  * English (Fluent), French (A2), German (A1), Tamil (Mother Tongue), Hindi and Sanskrit (Basic Proficiency)
 
 Publications
 ======
