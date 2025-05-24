@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist (Machine Learning) at [Google AR/VR](https://arvr.google.com/). My current research interests span the areas of performance capture, animation, neural rendering, generative models, and deep learning. I generally enjoy working on any creative application at the intersection of computer vision, graphics, and machine learning.  Please take a look at some of my [publications](/publications/) to know more about my work :)
+I am a Research Scientist (Machine Learning) at [Google AR/VR](https://arvr.google.com/). I generally enjoy working on creative application at the intersection of computer vision, graphics, and machine learning.  Please take a look at some of my [publications](/publications/) to know more about my work :)
 
 Previously I was an Associate Research Scientist at [Disney Research\|Studios](https://studios.disneyresearch.com/) and a member of the [Facial VFX group](https://studios.disneyresearch.com/digital-humans/). 
 
