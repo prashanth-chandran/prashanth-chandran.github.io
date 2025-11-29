@@ -30,7 +30,7 @@ Monocular 3D face reconstruction is a wide-spread topic, and existing approaches
 <pre>
 @article{Otto2023,
     journal = {Computer Graphics Forum},
-    title = {{A Perceptual Shape Loss for Monocular 3D Face Reconstruction}},
+    title = {A Perceptual Shape Loss for Monocular 3D Face Reconstruction},
     author = {Otto, Christopher and Chandran, Prashanth and Zoss, Gaspard and Gross, Markus and Gotardo, Paulo and Bradley, Derek},
     year = {2023},
     publisher = {The Eurographics Association and John Wiley & Sons Ltd.},

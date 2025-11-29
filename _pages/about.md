@@ -7,16 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist (Machine Learning) at [Google AR/VR](https://arvr.google.com/). I generally enjoy working on creative application at the intersection of computer vision, graphics, and machine learning.  Please take a look at some of my [publications](/publications/) to know more about my work :)
+I am a Research Scientist (Machine Learning) at [Google AR/VR](https://arvr.google.com/). I enjoy working on creative applications at the intersection of computer vision, graphics, and machine learning.  Please take a look at some of my [publications](/publications/) to know more about my work :)
 
-Previously I was an Associate Research Scientist at [Disney Research\|Studios](https://studios.disneyresearch.com/) and a member of the [Facial VFX group](https://studios.disneyresearch.com/digital-humans/). 
+I was previously an Associate Research Scientist at [Disney Research\|Studios](https://studios.disneyresearch.com/) and a member of the [Facial VFX group](https://studios.disneyresearch.com/digital-humans/). 
 
 I completed my PhD from the [Computer Graphics Lab](https://cgl.ethz.ch/) at ETH Zurich and [Disney Research\|Studios](https://studios.disneyresearch.com/), where I was advised by [Prof. Markus Gross](https://inf.ethz.ch/people/person-detail.mgross.html), and  co-supervised by [Dr. Derek Bradley](https://studios.disneyresearch.com/people/derek-bradley/). Before my PhD, I completed my Masters in the [Department of Electrical Engineering and Information Technology](https://ee.ethz.ch/), also at ETH Zurich, where my focus was on machine learning and computer vision. I received my bachelor's degree in Electronics and Communications Engineering in 2013 from the [Madras Institute of Technology](https://www.annauniv.edu/) and later worked for 3 years at [Caterpillar Inc.](https://www.caterpillar.com/) as an embedded electronics engineer. 
 
 ---
 *Recent Publications* ([view more](/publications/))
 
-| <img style="float: left;width:100px;" src="images/scaffold_25.png"> &nbsp;&nbsp; **ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions** <br/> &nbsp;&nbsp; Eurographics 2025 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2025/07/09/scaffoldavatar-high-fidelity-gaussian-avatars-with-patch-expressions/) |
+| <img style="float: left;width:100px;" src="images/multimod_2025.png"> &nbsp;&nbsp; **Multimodal Conditional 3D Face Geometry Generation** <br/> &nbsp;&nbsp; Shape Modeling International 2025 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2025/10/26/multimodal-conditional-3d-face-geometry-generation/) |
+| <img style="float: left;width:100px;" src="images/jointapp_2025.png"> &nbsp;&nbsp; **Joint Learning of Depth and Appearance for Portrait Image Animation** <br/> &nbsp;&nbsp; ICCV Workshops 2025 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2025/10/18/joint-learning-of-depth-and-appearance-for-portrait-images/) |
+| <img style="float: left;width:100px;" src="images/wildapp_2025.png"> &nbsp;&nbsp; **Monocular Facial Appearance Capture in the Wild** <br/> &nbsp;&nbsp; ICCV 2025 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2025/10/16/monocular-facial-appearance-capture-in-the-wild/) |
+| <img style="float: left;width:100px;" src="images/scaffold_25.png"> &nbsp;&nbsp; **ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions** <br/> &nbsp;&nbsp; SIGGRAPH 2025 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2025/07/09/scaffoldavatar-high-fidelity-gaussian-avatars-with-patch-expressions/) |
 | <img style="float: left;width:100px;" src="images/nfdt2025.png"> &nbsp;&nbsp; **Neural Facial Deformation Transfer** <br/> &nbsp;&nbsp; Eurographics 2025 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2025/05/11/neural-facial-deformation-transfer/) |
 | <img style="float: left;width:100px;" src="images/sbt2024.png"> &nbsp;&nbsp; **Spline-based Transformers** <br/> &nbsp;&nbsp; ECCV 2024 **(Oral)** <br/> &nbsp;&nbsp; [Project Page](https://la.disneyresearch.com/publication/spline-based-transformers/) |
 | <img style="float: left;width:100px;" src="images/physface2024.png"> &nbsp;&nbsp; **Learning a Generalized Physical Face Model From Data** <br/> &nbsp;&nbsp; Siggraph 2024 <br/> &nbsp;&nbsp; [Project Page](https://studios.disneyresearch.com/2024/07/28/learning-a-generalized-physical-face-model-from-data/) |

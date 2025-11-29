@@ -5,12 +5,12 @@ permalink: /publication/nfdt_2025
 teaser: /images/nfdt2025.png
 excerpt: We address the practical problem of generating facial blendshapes and reference animations for a new 3D character in production environments. [[Project Page]](https://studios.disneyresearch.com/2025/05/11/neural-facial-deformation-transfer/)<br><br><br>
 date: 2025-05-11
-venue: 'Eurographics 2025'
+venue: 'Eurographics'
 bibtex: "
 @inproceedings{10.2312:egs.20251036,<br>
 booktitle = {Eurographics 2025 - Short Papers},<br>
 editor = {Ceylan, Duygu and Li, Tzu-Mao},<br>
-title = {{Neural Facial Deformation Transfer}},<br>
+title = {Neural Facial Deformation Transfer},<br>
 author = {Chandran, Prashanth and Ciccone, Loïc and Zoss, Gaspard and Bradley, Derek},<br>
 year = {2025},<br>
 publisher = {The Eurographics Association},<br>
@@ -33,7 +33,7 @@ We address the practical problem of generating facial blendshapes and reference 
 @inproceedings{10.2312:egs.20251036,
 booktitle = {Eurographics 2025 - Short Papers},
 editor = {Ceylan, Duygu and Li, Tzu-Mao},
-title = {{Neural Facial Deformation Transfer}},
+title = {Neural Facial Deformation Transfer},
 author = {Chandran, Prashanth and Ciccone, Loïc and Zoss, Gaspard and Bradley, Derek},
 year = {2025},
 publisher = {The Eurographics Association},

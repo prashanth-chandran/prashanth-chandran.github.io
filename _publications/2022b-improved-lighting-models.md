@@ -34,7 +34,7 @@ Facial appearance capture techniques estimate geometry and reflectance propertie
 @inproceedings {10.2312:egs.20221019,
 booktitle = {Eurographics 2022 - Short Papers},
 editor = {Pelechano, Nuria and Vanderhaeghe, David},
-title = {{Improved Lighting Models for Facial Appearance Capture}},
+title = {Improved Lighting Models for Facial Appearance Capture},
 author = {Xu, Yingyan and Riviere, Jérémy and Zoss, Gaspard and Chandran, Prashanth and Bradley, Derek and Gotardo, Paulo},
 year = {2022},
 publisher = {The Eurographics Association},

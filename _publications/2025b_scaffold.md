@@ -5,7 +5,7 @@ permalink: /publication/scaffold_2025
 teaser: /images/scaffold_25.png
 excerpt: In this work, we propose to couple locally-defined facial expressions with 3D Gaussian splatting to enable creating ultra-high fidelity, expressive and photorealistic head avatars. [[Project Page]](https://studios.disneyresearch.com/2025/07/09/scaffoldavatar-high-fidelity-gaussian-avatars-with-patch-expressions/)<br><br><br>
 date: 2025-07-10
-venue: 'SIGGRAPH 2025'
+venue: 'SIGGRAPH'
 bibtex: "
 @inproceedings{Shivangi2025Scaffold,<br>
 author = {Aneja, Shivangi and Weiss, Sebastian and Baeza, Irene and Chandran, Prashanth and Zoss, Gaspard and Niessner, Matthias and Bradley, Derek},<br>

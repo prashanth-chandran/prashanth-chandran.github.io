@@ -33,7 +33,7 @@ We present a new method to animate the dynamic motion of skin micro wrinkles und
 @inproceedings{Weiss2024B,
     booktitle = {Eurographics 2024 - Short Papers},
     editor = {Hu, Ruizhen and Charalambous, Panayiotis},
-    title = {{Fast Dynamic Facial Wrinkles}},
+    title = {Fast Dynamic Facial Wrinkles},
     author = {Weiss, Sebastian and Chandran, Prashanth and Zoss, Gaspard and Bradley, Derek},
     year = {2024},
     publisher = {The Eurographics Association},

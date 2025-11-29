@@ -33,7 +33,7 @@ An increasingly common approach for creating photorealistic digital avatars is t
 @INPROCEEDINGS {Xu2024,
     author = { Xu, Yingyan and Chandran, Prashanth and Weiss, Sebastian and Gross, Markus and Zoss, Gaspard and Bradley, Derek },
     booktitle = { 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) },
-    title = {{ Artist-Friendly Relightable and Animatable Neural Heads }},
+    title = {Artist-Friendly Relightable and Animatable Neural Heads},
     year = {2024},
     pages = {2457-2467},
     doi = {10.1109/CVPR52733.2024.00238},
