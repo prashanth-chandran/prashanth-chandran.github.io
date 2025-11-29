@@ -10,7 +10,7 @@ bibtex: "
 @inproceedings {10.2312:egs.20221019,<br>
 booktitle = {Eurographics 2022 - Short Papers}, <br>
 editor = {Pelechano, Nuria and Vanderhaeghe, David}, <br>
-title = {{Improved Lighting Models for Facial Appearance Capture}}, <br>
+title = {Improved Lighting Models for Facial Appearance Capture}, <br>
 author = {Xu, Yingyan and Riviere, Jérémy and Zoss, Gaspard and Chandran, Prashanth and <br>
 Bradley, Derek and Gotardo, Paulo}, <br>
 year = {2022}, <br>

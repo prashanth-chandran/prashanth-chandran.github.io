@@ -9,7 +9,7 @@ venue: 'Pacific Graphics'
 bibtex: "
 @article{Otto2023,<br>
     journal = {Computer Graphics Forum},<br>
-    title = {{A Perceptual Shape Loss for Monocular 3D Face Reconstruction}},<br>
+    title = {A Perceptual Shape Loss for Monocular 3D Face Reconstruction},<br>
     author = {Otto, Christopher and Chandran, Prashanth and Zoss, Gaspard and Gross, Markus and Gotardo, Paulo and Bradley, Derek},<br>
     year = {2023},<br>
     publisher = {The Eurographics Association and John Wiley & Sons Ltd.},<br>

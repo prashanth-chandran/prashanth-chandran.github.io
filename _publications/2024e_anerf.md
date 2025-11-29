@@ -10,7 +10,7 @@ bibtex: "
 @INPROCEEDINGS {Xu2024,<br>
     author = { Xu, Yingyan and Chandran, Prashanth and Weiss, Sebastian and Gross, Markus and Zoss, Gaspard and Bradley, Derek },<br>
     booktitle = { 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) },<br>
-    title = {{ Artist-Friendly Relightable and Animatable Neural Heads }},<br>
+    title = {Artist-Friendly Relightable and Animatable Neural Heads},<br>
     year = {2024},<br>
     pages = {2457-2467},<br>
     doi = {10.1109/CVPR52733.2024.00238},<br>

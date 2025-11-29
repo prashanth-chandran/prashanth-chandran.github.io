@@ -10,7 +10,7 @@ bibtex: "
 @inproceedings{Weiss2024B,<br>
     booktitle = {Eurographics 2024 - Short Papers},<br>
     editor = {Hu, Ruizhen and Charalambous, Panayiotis},<br>
-    title = {{Fast Dynamic Facial Wrinkles}},<br>
+    title = {Fast Dynamic Facial Wrinkles},<br>
     author = {Weiss, Sebastian and Chandran, Prashanth and Zoss, Gaspard and Bradley, Derek},<br>
     year = {2024},<br>
     publisher = {The Eurographics Association},<br>
