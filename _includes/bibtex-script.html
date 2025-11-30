@@ -1,17 +1,17 @@
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    // Use event delegation for better performance and to handle dynamically added elements
+    /* Use event delegation for better performance and to handle dynamically added elements */
     document.body.addEventListener('click', function(e) {
         if (e.target.classList.contains('btn--copy-bibtex')) {
             const btn = e.target;
-            // Find the sibling textarea with class bibtex-content
+            /* Find the sibling textarea with class bibtex-content */
             const textarea = btn.nextElementSibling;
             let bibtex = '';
             
             if (textarea && textarea.classList.contains('bibtex-content')) {
                 bibtex = textarea.value;
             } else {
-                // Fallback or error handling if structure changes
+                /* Fallback or error handling if structure changes */
                 console.error('Bibtex content not found');
                 return;
             }
@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', function() {
             navigator.clipboard.writeText(bibtex).then(() => {
                 const originalText = btn.innerText;
                 btn.innerText = 'Copied!';
-                btn.classList.add('btn--success'); // Optional: Add a success class for styling
+                btn.classList.add('btn--success'); /* Optional: Add a success class for styling */
                 
                 setTimeout(() => {
                     btn.innerText = originalText;
