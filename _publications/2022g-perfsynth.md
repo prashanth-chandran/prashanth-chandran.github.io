@@ -7,15 +7,15 @@ excerpt: We propose a 3D+time framework for modeling dynamic sequences of 3D fac
 date: 2022-09-13
 venue: 'ACM/Eurographics Symposium on Computer Animation'
 bibtex: "
-@article{https://doi.org/10.1111/cgf.14641, <br>
-author = {Chandran, Prashanth and Zoss, Gaspard <br> and Gross, Markus and Gotardo, Paulo and Bradley, Derek},<br>
-title = {Facial Animation with Disentangled Identity <br> and Motion using Transformers},
-journal = {Computer Graphics Forum}, <br>
-volume = {41},<br>
-number = {8},<br>
-pages = {267-277},<br>
-doi = {https://doi.org/10.1111/cgf.14641},<br>
-year = {2022}<br>
+@article{https://doi.org/10.1111/cgf.14641, 
+author = {Chandran, Prashanth and Zoss, Gaspard  and Gross, Markus and Gotardo, Paulo and Bradley, Derek},
+title = {Facial Animation with Disentangled Identity  and Motion using Transformers},
+journal = {Computer Graphics Forum}, 
+volume = {41},
+number = {8},
+pages = {267-277},
+doi = {https://doi.org/10.1111/cgf.14641},
+year = {2022}
 }
 "
 ---
@@ -26,18 +26,3 @@ We propose a 3D+time framework for modeling dynamic sequences of 3D facial shape
 </p>
 
 [Project Page](https://studios.disneyresearch.com/2022/09/13/facial-animation-with-disentangled-identity-and-motion-using-transformers/)
-
-**Bibtex:** 
-<pre>
-@article{https://doi.org/10.1111/cgf.14641, 
-author = {Chandran, Prashanth and Zoss, Gaspard and Gross, Markus and Gotardo, Paulo and Bradley, Derek},
-title = {Facial Animation with Disentangled Identity and Motion using Transformers},
-journal = {Computer Graphics Forum},
-volume = {41},
-number = {8},
-pages = {267-277},
-doi = {https://doi.org/10.1111/cgf.14641},
-year = {2022}
-}
-</pre>
-{: .notice}

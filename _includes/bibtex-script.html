@@ -1,0 +1,30 @@
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Use event delegation for better performance and to handle dynamically added elements
+    document.body.addEventListener('click', function(e) {
+        if (e.target.classList.contains('btn--copy-bibtex')) {
+            const btn = e.target;
+            const bibtex = btn.getAttribute('data-bibtex');
+            
+            if (!bibtex) return;
+
+            navigator.clipboard.writeText(bibtex).then(() => {
+                const originalText = btn.innerText;
+                btn.innerText = 'Copied!';
+                btn.classList.add('btn--success'); // Optional: Add a success class for styling
+                
+                setTimeout(() => {
+                    btn.innerText = originalText;
+                    btn.classList.remove('btn--success');
+                }, 2000);
+            }).catch(err => {
+                console.error('Failed to copy: ', err);
+                btn.innerText = 'Error!';
+                setTimeout(() => {
+                    btn.innerText = 'Copy Bibtex';
+                }, 2000);
+            });
+        }
+    });
+});
+</script>

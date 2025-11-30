@@ -6,13 +6,13 @@ excerpt: 'Road segmentation and tracking is of prime importance in Advanced Driv
 date: 2014-10-14
 venue: '17th International IEEE Conference on Intelligent Transportation Systems (ITSC)'
 bibtex: "
-@INPROCEEDINGS{6957884, <br>
-author={Chandran, Prashanth and John, Mala and Santhosh Kumar S and Mithilesh N S R}, <br> 
-booktitle={17th International IEEE Conference on Intelligent Transportation Systems (ITSC)}, <br> 
-title={Road tracking using particle filters for Advanced Driver Assistance Systems}, <br>
-year={2014}, <br>
-pages={1408-1414}, <br>
-doi={10.1109/ITSC.2014.6957884} <br>
+@INPROCEEDINGS{6957884, 
+author={Chandran, Prashanth and John, Mala and Santhosh Kumar S and Mithilesh N S R},  
+booktitle={17th International IEEE Conference on Intelligent Transportation Systems (ITSC)},  
+title={Road tracking using particle filters for Advanced Driver Assistance Systems}, 
+year={2014}, 
+pages={1408-1414}, 
+doi={10.1109/ITSC.2014.6957884} 
 }
 "
 ---
@@ -23,16 +23,3 @@ Road segmentation and tracking is of prime importance in Advanced Driver Assista
 </p>
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/6957884)
-
-**Bibtex:**
-<pre>
-@INPROCEEDINGS{6957884,  
-author={Chandran, Prashanth and John, Mala and Santhosh Kumar S and Mithilesh N S R}, 
-booktitle={17th International IEEE Conference on Intelligent Transportation Systems (ITSC)},  
-title={Road tracking using particle filters for Advanced Driver Assistance Systems}, 
-year={2014},
-pages={1408-1414},
-doi={10.1109/ITSC.2014.6957884}
-}
-</pre>
-{: .notice}

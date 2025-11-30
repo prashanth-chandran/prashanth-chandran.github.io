@@ -7,21 +7,21 @@ excerpt: We approach the problem of face swapping from the perspective of learni
 date: 2022-10-05
 venue: 'Pacific Graphics'
 bibtex: "
-@article {Ott22a, <br>
-journal = {Computer Graphics Forum}, <br>
-title = {Learning Dynamic 3D Geometry and Texture for Video Face Swapping}, <br>
-author = {Otto, Christopher and Naruniec, Jacek and Helminger, <br>
-Leonhard and Etterlin, Thomas and Mignone, Graziana and <br>
- Chandran, Prashanth and Zoss, Gaspard and Schroers, Christopher <br>
- and Gross, Markus and Gotardo, Paulo and Bradley, Derek and Weber, Romann},<br>
-year = {2022},<br>
-pages={611-622},<br>
-month={Oct},<br>
-number={7},<br>
-volume={41},<br>
-publisher = {The Eurographics Association and John Wiley & Sons Ltd.},<br>
-ISSN = {1467-8659},<br>
-DOI = {10.1111/cgf.14705}<br>
+@article {Ott22a, 
+journal = {Computer Graphics Forum}, 
+title = {Learning Dynamic 3D Geometry and Texture for Video Face Swapping}, 
+author = {Otto, Christopher and Naruniec, Jacek and Helminger, 
+Leonhard and Etterlin, Thomas and Mignone, Graziana and 
+ Chandran, Prashanth and Zoss, Gaspard and Schroers, Christopher 
+ and Gross, Markus and Gotardo, Paulo and Bradley, Derek and Weber, Romann},
+year = {2022},
+pages={611-622},
+month={Oct},
+number={7},
+volume={41},
+publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+ISSN = {1467-8659},
+DOI = {10.1111/cgf.14705}
 }
 "
 ---
@@ -32,21 +32,3 @@ Face swapping is the process of applying a source actor’s appearance to a targ
 </p>
 
 [Project Page](https://studios.disneyresearch.com/2022/10/05/learning-dynamic-3d-geometry-and-texture-for-video-face-swapping/)
-
-**Bibtex:** 
-<pre>
-@article {Ott22a,
-journal = {Computer Graphics Forum},
-title = {Learning Dynamic 3D Geometry and Texture for Video Face Swapping},
-author = {Otto, Christopher and Naruniec, Jacek and Helminger, Leonhard and Etterlin, Thomas and Mignone, Graziana and Chandran, Prashanth and Zoss, Gaspard and Schroers, Christopher and Gross, Markus and Gotardo, Paulo and Bradley, Derek and Weber, Romann},
-year = {2022},
-pages={611-622},
-month={Oct},
-number={7},
-volume={41},
-publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
-ISSN = {1467-8659},
-DOI = {10.1111/cgf.14705}
-}
-</pre>
-{: .notice}

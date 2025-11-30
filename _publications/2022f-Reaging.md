@@ -7,22 +7,22 @@ excerpt: We demonstrate how the simple U-Net, surprisingly, allows us to advance
 date: 2022-11-30
 venue: 'Siggraph Asia'
 bibtex: "
-@article{Zoss_2022, <br>
-author = {Zoss, Gaspard and Chandran, Prashanth and Sifakis, Eftychios <br> and Gross, Markus and Gotardo, Paulo and Bradley, Derek}, <br>
-title = {Production-Ready Face Re-Aging for Visual Effects}, <br>
-year = {2022}, <br>
-issue_date = {December 2022}, <br>
-publisher = {Association for Computing Machinery}, <br>
-address = {New York, NY, USA}, <br>
-volume = {41}, <br>
-number = {6}, <br>
-issn = {0730-0301}, <br>
-doi = {10.1145/3550454.3555520}, <br>
-journal = {ACM Trans. Graph.}, <br>
-month = {nov}, <br>
-articleno = {237}, <br>
-numpages = {12}, <br>
-keywords = {facial re-aging, image and video editing} <br>
+@article{Zoss_2022, 
+author = {Zoss, Gaspard and Chandran, Prashanth and Sifakis, Eftychios  and Gross, Markus and Gotardo, Paulo and Bradley, Derek}, 
+title = {Production-Ready Face Re-Aging for Visual Effects}, 
+year = {2022}, 
+issue_date = {December 2022}, 
+publisher = {Association for Computing Machinery}, 
+address = {New York, NY, USA}, 
+volume = {41}, 
+number = {6}, 
+issn = {0730-0301}, 
+doi = {10.1145/3550454.3555520}, 
+journal = {ACM Trans. Graph.}, 
+month = {nov}, 
+articleno = {237}, 
+numpages = {12}, 
+keywords = {facial re-aging, image and video editing} 
 }
 "
 ---
@@ -33,24 +33,3 @@ Photorealistic digital re-aging of faces in video is becoming increasingly commo
 </p>
 
 [Project Page](https://studios.disneyresearch.com/2022/11/30/production-ready-face-re-aging-for-visual-effects/)
-
-**Bibtex:** 
-<pre>
-author = {Zoss, Gaspard and Chandran, Prashanth and Sifakis, Eftychios and Gross, Markus and Gotardo, Paulo and Bradley, Derek},
-title = {Production-Ready Face Re-Aging for Visual Effects},
-year = {2022}, 
-issue_date = {December 2022}, 
-publisher = {Association for Computing Machinery}, 
-address = {New York, NY, USA},
-volume = {41},
-number = {6}, 
-issn = {0730-0301}, 
-doi = {10.1145/3550454.3555520}, 
-journal = {ACM Trans. Graph.}, 
-month = {nov}, 
-articleno = {237}, 
-numpages = {12}, 
-keywords = {facial re-aging, image and video editing} 
-}
-</pre>
-{: .notice}

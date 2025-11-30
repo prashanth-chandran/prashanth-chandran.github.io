@@ -7,13 +7,13 @@ excerpt: Facial landmark detection is a fundamental task for many consumer and h
 date: 2020-06-16
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
 bibtex: "
-  @InProceedings{Chandran_2020_CVPR,<br>
-  author = {Chandran, Prashanth and Bradley, Derek and Gross, Markus and Beeler, Thabo},<br> 
-  title = {Attention-Driven Cropping for Very High Resolution Facial Landmark Detection},<br> 
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
-  month = {June},<br>
-  year = {2020}<br>
-  }
+@InProceedings{Chandran_2020_CVPR,
+author = {Chandran, Prashanth and Bradley, Derek and Gross, Markus and Beeler, Thabo}, 
+title = {Attention-Driven Cropping for Very High Resolution Facial Landmark Detection}, 
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}
 "
 ---
 
@@ -23,15 +23,3 @@ Facial landmark detection is a fundamental task for many consumer and high-end a
 </p>
 
 [Project Page](https://studios.disneyresearch.com/2020/06/16/attention-driven-cropping-for-very-high-resolution-facial-landmark-detection/)
-
-**Bibtex:** 
-<pre>
-@InProceedings{Chandran_2020_CVPR,
-  author = {Chandran, Prashanth and Bradley, Derek and Gross, Markus and Beeler, Thabo},  
-  title = {Attention-Driven Cropping for Very High Resolution Facial Landmark Detection},
-  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-  month = {June},
-  year = {2020}
-  }
-</pre>
-{: .notice}

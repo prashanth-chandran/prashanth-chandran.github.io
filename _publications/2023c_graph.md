@@ -7,13 +7,13 @@ excerpt: We present a novel graph-based simulation approach for generating micro
 date: 2023-07-03
 venue: 'Eurographics Symposium on Geometry Processing'
 bibtex: "
-@article{Weiss2023,<br>
-author = {Weiss, Sebastian and Moulin, Jonathan and Chandran, Prashanth and Zoss, Gaspard and Gotardo, Paulo and Bradley, Derek},<br>
-title = {Graph-Based Synthesis for Skin Micro Wrinkles},<br>
-journal={Computer Graphics Forum (Symposium on Geometry Processing)},<br>
-year = {2023},<br>
-month = {6},<br>
-}<br>
+@article{Weiss2023,
+author = {Weiss, Sebastian and Moulin, Jonathan and Chandran, Prashanth and Zoss, Gaspard and Gotardo, Paulo and Bradley, Derek},
+title = {Graph-Based Synthesis for Skin Micro Wrinkles},
+journal={Computer Graphics Forum (Symposium on Geometry Processing)},
+year = {2023},
+month = {6},
+}
 "
 ---
 
@@ -23,15 +23,3 @@ We present a novel graph-based simulation approach for generating micro wrinkle 
 </p>
 
 [Project Page](https://studios.disneyresearch.com/2023/07/03/graph-based-synthesis-for-skin-micro-wrinkles/)
-
-**Bibtex:** 
-<pre>
-@article{Weiss2023,
-author = {Weiss, Sebastian and Moulin, Jonathan and Chandran, Prashanth and Zoss, Gaspard and Gotardo, Paulo and Bradley, Derek},
-title = {Graph-Based Synthesis for Skin Micro Wrinkles},
-journal={Computer Graphics Forum (Symposium on Geometry Processing)},
-year = {2023},
-month = {6},
-}
-</pre>
-{: .notice}

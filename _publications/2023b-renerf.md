@@ -7,13 +7,13 @@ excerpt: In this paper, we target the application scenario of capturing high-fid
 date: 2023-10-02
 venue: 'International Conference on Computer Vision (ICCV)'
 bibtex: "
-@InProceedings{Xu_2023_ICCV,<br>
-    author    = {Xu, Yingyan and Zoss, Gaspard and Chandran, Prashanth and Gross, Markus and Bradley, Derek and Gotardo, Paulo},<br>
-    title     = {ReNeRF: Relightable Neural Radiance Fields with Nearfield Lighting},<br>
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},<br>
-    month     = {October},<br>
-    year      = {2023},<br>
-    pages     = {22581-22591}<br>
+@InProceedings{Xu_2023_ICCV,
+    author    = {Xu, Yingyan and Zoss, Gaspard and Chandran, Prashanth and Gross, Markus and Bradley, Derek and Gotardo, Paulo},
+    title     = {ReNeRF: Relightable Neural Radiance Fields with Nearfield Lighting},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {22581-22591}
 }
 "
 ---
@@ -24,16 +24,3 @@ Recent work on radiance fields and volumetric inverse rendering (e.g., NeRFs) ha
 </p>
 
 [Project Page](https://studios.disneyresearch.com/2023/10/02/renerf-relightable-neural-radiance-fields-with-nearfield-lighting/)
-
-**Bibtex:** 
-<pre>
-@InProceedings{Xu_2023_ICCV,
-    author    = {Xu, Yingyan and Zoss, Gaspard and Chandran, Prashanth and Gross, Markus and Bradley, Derek and Gotardo, Paulo},
-    title     = {ReNeRF: Relightable Neural Radiance Fields with Nearfield Lighting},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2023},
-    pages     = {22581-22591}
-}
-</pre>
-{: .notice}

@@ -7,13 +7,13 @@ excerpt: We propose Adaptive convolutions; a generic extension of AdaIN, which a
 date: 2021-06-19
 venue: 'IEEE Conference on Computer Vision and Pattern Recognition (CVPR)'
 bibtex: "
-@InProceedings{Chandran_2021_CVPR,<br>
-author    = {Chandran, Prashanth and Zoss, Gaspard and Gotardo, Paulo and Gross, Markus and Bradley, Derek},<br>
-title     = {Adaptive Convolutions for Structure-Aware Style Transfer},<br>
-booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},<br>
-month     = {June},<br>
-year      = {2021},<br>
-pages     = {7972-7981}<br>
+@InProceedings{Chandran_2021_CVPR,
+author    = {Chandran, Prashanth and Zoss, Gaspard and Gotardo, Paulo and Gross, Markus and Bradley, Derek},
+title     = {Adaptive Convolutions for Structure-Aware Style Transfer},
+booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+month     = {June},
+year      = {2021},
+pages     = {7972-7981}
 }
 "
 ---
@@ -24,16 +24,3 @@ Style transfer between images is an artistic application of CNNs, where the ‘s
 </p>
 
 [Project Page](https://studios.disneyresearch.com/2021/06/19/adaptive-convolutions-for-structure-aware-style-transfer/)
-
-**Bibtex:** 
-<pre>
-@InProceedings{Chandran_2021_CVPR,
-author    = {Chandran, Prashanth and Zoss, Gaspard and Gotardo, Paulo and Gross, Markus and Bradley, Derek},
-title     = {Adaptive Convolutions for Structure-Aware Style Transfer},
-booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month     = {June},
-year      = {2021},
-pages     = {7972-7981}
-}
-</pre>
-{: .notice}

@@ -1,0 +1,71 @@
+work:
+  - role: Research Scientist, Machine Learning
+    company: Google AR/VR
+    dates: Nov 2024 - Present
+    logo: /images/google-logo.jpg
+    details:
+      - "Google AR/VR"
+
+  - role: Associate Research Scientist
+    company: Digital Humans Group, Disney Research|Studios
+    dates: June 2022 - Nov 2024
+    logo: /images/disney-logo.png
+    details:
+      - "Digital Humans Group, Disney Research|Studios"
+
+  - role: Senior Associate Engineer
+    company: Caterpillar Inc.
+    dates: July 2013 - August 2016
+    logo: /images/caterpillar-logo.png
+    details:
+      - "Role: Embedded Electronics Engineer"
+
+internships:
+  - role: Research Intern
+    company: Digital Humans Group, Disney Research|Studios
+    dates: March 2017 - Feb 2018
+    logo: /images/disney-logo.png
+    details:
+      - "Digital Humans Group, Disney Research|Studios"
+      - "Topic: Geometry Processing"
+      - "Supervisor(s): Dr. Thabo Beeler, Dr. Derek Bradley"
+
+  - role: Summer Research Internship
+    company: IIT Madras
+    dates: Summer 2012
+    logo: /images/iitm-logo.png
+    details:
+      - "Indian Institute of Technology Madras"
+      - "Visualization and Perception Lab"
+      - "Topic: Content Based Video Retrieval"
+      - "Supervisor(s): Prof. Dr. Sukhendu Das"
+
+education:
+  - degree: Ph.D
+    institution: ETH Zurich, Switzerland
+    department: D-INFK, Computer Graphics Lab
+    year: 2023
+    logo: /images/eth-logo.png
+
+  - degree: M.Sc
+    institution: ETH Zurich, Switzerland
+    department: D-ITET
+    year: 2018
+    logo: /images/eth-logo.png
+
+  # - degree: Post Graduate Diploma in Business Administration
+  #   institution: Symbiosis Institute, Pune
+  #   year: 2016
+
+  - degree: B.E. in Electronics and Communications Engineering
+    institution: Anna University, Chennai, India
+    year: 2013
+    logo: /images/anna-univ-logo.jpg
+
+skills:
+  - category: Programming Languages
+    items: Python, C++, C
+  - category: ML frameworks
+    items: pytorch, tensorflow, jax
+  - category: Languages
+    items: English (Fluent), French (A2), German (A1), Tamil (Mother Tongue), Hindi and Sanskrit (Basic Proficiency)

@@ -99,7 +99,7 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        : "prashc_yo"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "prashanth-chandran-04a462246"
@@ -226,7 +226,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: publication
       author_profile: true
       share: true
       comments: true

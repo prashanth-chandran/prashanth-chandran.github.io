@@ -1,0 +1,24 @@
+<div class="cv-item">
+  <div class="cv-logo-wrapper">
+    {% if include.item.logo %}
+      <img src="{{ include.item.logo }}" alt="{{ include.item.company }} logo" class="cv-logo" onerror="this.style.display='none'">
+    {% else %}
+      <div class="cv-logo-placeholder"></div>
+    {% endif %}
+  </div>
+  <div class="cv-content">
+    <h3 class="cv-role">{{ include.item.role | default: include.item.degree }}</h3>
+    <h4 class="cv-company">{{ include.item.company | default: include.item.institution }}</h4>
+    <p class="cv-dates">{{ include.item.dates | default: include.item.year }}</p>
+    {% if include.item.department %}
+      <p class="cv-department">{{ include.item.department }}</p>
+    {% endif %}
+    {% if include.item.details %}
+      <ul class="cv-details">
+        {% for detail in include.item.details %}
+          <li>{{ detail }}</li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</div>

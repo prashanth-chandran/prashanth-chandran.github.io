@@ -7,30 +7,6 @@ excerpt: We present a method for nonlinear 3D face modeling using neural archite
 date: 2020-09-25
 venue: '3D International Conference on 3D Vision (3DV)'
 bibtex: "
-@INPROCEEDINGS {9320344,<br>
-author = {P. Chandran and D. Bradley and M. Gross and T. Beeler},<br>
-booktitle = {2020 International Conference on 3D Vision (3DV)},<br>
-title = {Semantic Deep Face Models},<br>
-year = {2020},<br>
-pages = {345-354},<br>
-doi = {10.1109/3DV50981.2020.00044},<br>
-url = {https://doi.ieeecomputersociety.org/10.1109/3DV50981.2020.00044},<br>
-publisher = {IEEE Computer Society},<br>
-address = {Los Alamitos, CA, USA},<br>
-month = {nov}<br>
-}
-"
----
-
-**Abstract**
-<p>
-Face models built from 3D face databases are often used in computer vision and graphics tasks such as face reconstruction, replacement, tracking and manipulation. For such tasks, commonly used multi-linear morphable models, which provide semantic control over facial identity and expression, often lack quality and expressivity due to their linear nature. Deep neural networks offer the possibility of non-linear face modeling, where so far most research has focused on generating realistic facial images with less focus on 3D geometry, and methods that do produce geometry have little or no notion of semantic control, thereby limiting their artistic applicability. We present a method for nonlinear 3D face modeling using neural architectures that provides intuitive semantic control over both identity and expression by disentangling these dimensions from each other, essentially combining the benefits of both multi-linear face models and nonlinear deep face networks. The result is a powerful, semantically controllable, nonlinear, parametric face model. We demonstrate the value of our semantic deep face model with applications of 3D face synthesis, facial performance transfer, performance editing, and 2D landmark-based performance retargeting.
-</p>
-
-[Project Page](https://studios.disneyresearch.com/2020/11/25/semantic-deep-face-models/)
-
-**Bibtex:** 
-<pre>
 @INPROCEEDINGS {9320344,
 author = {P. Chandran and D. Bradley and M. Gross and T. Beeler},
 booktitle = {2020 International Conference on 3D Vision (3DV)},
@@ -43,5 +19,12 @@ publisher = {IEEE Computer Society},
 address = {Los Alamitos, CA, USA},
 month = {nov}
 }
-</pre>
-{: .notice}
+"
+---
+
+**Abstract**
+<p>
+Face models built from 3D face databases are often used in computer vision and graphics tasks such as face reconstruction, replacement, tracking and manipulation. For such tasks, commonly used multi-linear morphable models, which provide semantic control over facial identity and expression, often lack quality and expressivity due to their linear nature. Deep neural networks offer the possibility of non-linear face modeling, where so far most research has focused on generating realistic facial images with less focus on 3D geometry, and methods that do produce geometry have little or no notion of semantic control, thereby limiting their artistic applicability. We present a method for nonlinear 3D face modeling using neural architectures that provides intuitive semantic control over both identity and expression by disentangling these dimensions from each other, essentially combining the benefits of both multi-linear face models and nonlinear deep face networks. The result is a powerful, semantically controllable, nonlinear, parametric face model. We demonstrate the value of our semantic deep face model with applications of 3D face synthesis, facial performance transfer, performance editing, and 2D landmark-based performance retargeting.
+</p>
+
+[Project Page](https://studios.disneyresearch.com/2020/11/25/semantic-deep-face-models/)

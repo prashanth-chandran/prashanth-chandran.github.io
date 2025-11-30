@@ -6,13 +6,13 @@ excerpt: 'This paper proposes a method to segment the exudates and lesions in re
 date: 2011-12-11
 venue: '2011 World Congress on Information and Communication Technologies'
 bibtex: "
-@INPROCEEDINGS{6141299,  <br>
-author={Pradeep Kumar, A.V. and Prashanth, C. and Kavitha, G.}, <br> 
-booktitle={2011 World Congress on Information and Communication Technologies},  <br> 
-title={Segmentation and grading of diabetic retinopathic exudates using error-boost feature selection method}, <br>
-year={2011}, <br>
-pages={518-523}, <br>
-doi={10.1109/WICT.2011.6141299} <br>
+@INPROCEEDINGS{6141299,  
+author={Pradeep Kumar, A.V. and Prashanth, C. and Kavitha, G.},  
+booktitle={2011 World Congress on Information and Communication Technologies},   
+title={Segmentation and grading of diabetic retinopathic exudates using error-boost feature selection method}, 
+year={2011}, 
+pages={518-523}, 
+doi={10.1109/WICT.2011.6141299} 
 }
 "
 ---
@@ -23,16 +23,3 @@ This paper proposes a method to segment the exudates and lesions in retinal fund
 </p>
 
 [Paper](https://ieeexplore.ieee.org/abstract/document/6141299)
-
-**Bibtex:** 
-<pre>
-@INPROCEEDINGS{6141299,  
-author={Pradeep Kumar, A.V. and Prashanth, C. and Kavitha, G.},  
-booktitle={2011 World Congress on Information and Communication Technologies},   
-title={Segmentation and grading of diabetic retinopathic exudates using error-boost feature selection method},   
-year={2011},  
-pages={518-523},  
-doi={10.1109/WICT.2011.6141299}
-}
-</pre>
-{: .notice}
