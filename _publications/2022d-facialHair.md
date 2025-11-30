@@ -2,8 +2,9 @@
 title: "Facial Hair Tracking for High Fidelity Performance Capture"
 collection: publications
 permalink: /publication/2022d-facialHair
+project_page: https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/
 teaser: /images/hair2022.png
-excerpt: We demonstrate the proposed capture pipeline on a variety of different facial hair styles and lengths, ranging from sparse and short to dense full-beards. [[Project Page]](https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/)<br><br><br>
+excerpt: We demonstrate the proposed capture pipeline on a variety of different facial hair styles and lengths, ranging from sparse and short to dense full-beards.
 date: 2022-07-24
 venue: 'Siggraph'
 bibtex: "
@@ -32,5 +33,3 @@ keywords = {hair tracking, facial hair capture, performance capture}
 <p>
 Facial hair is a largely overlooked topic in facial performance capture. Most production pipelines in the entertainment industry do not have a way to automatically capture facial hair or track the skin underneath it. Thus, actors are asked to shave clean before face capture, which is very often undesirable. Capturing the geometry of individual facial hairs is very challenging, and their presence makes it harder to capture the deforming shape of the underlying skin surface. Some attempts have already been made at automating this task, but only for static faces with relatively sparse 3D hair reconstructions. In particular, current methods lack the temporal correspondence needed when capturing a sequence of video frames depicting facial performance. The problem of robustly tracking the skin underneath also remains unaddressed. In this paper, we propose the first multiview reconstruction pipeline that tracks both the dense 3D facial hair, as well as the underlying 3D skin for entire performances. Our method operates with standard setups for face photogrammetry, without requiring dense camera arrays. For a given capture subject, our algorithm first reconstructs a dense, high-quality neutral 3D facial hairstyle by registering sparser hair reconstructions over multiple frames that depict a neutral face under quasi-rigid motion. This custom-built, reference facial hairstyle is then tracked throughout a variety of changing facial expressions in a captured performance, and the result is used to constrain the tracking of the 3D skin surface underneath. We demonstrate the proposed capture pipeline on a variety of different facial hairstyles and lengths, ranging from sparse and short to dense full-beards.
 </p>
-
-[Project Page](https://studios.disneyresearch.com/2022/07/24/facial-hair-tracking-for-high-fidelity-performance-capture/)

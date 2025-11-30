@@ -34,11 +34,12 @@
                 {% endif %}
                 
                 {% if post.project_page %}
-                <a href="{{ post.project_page }}" class="btn btn--outline">Project Page</a>
+                <a href="{{ post.project_page }}" class="btn btn--primary">Project Page</a>
                 {% endif %}
 
                 {% if post.bibtex %}
-                <button class="btn btn--outline btn--copy-bibtex" data-bibtex="{{ post.bibtex | escape }}">Copy Bibtex</button>
+                <button class="btn btn--primary btn--copy-bibtex" style="text-decoration: underline;">Copy Bibtex</button>
+                <textarea class="bibtex-content" hidden>{{ post.bibtex }}</textarea>
                 {% endif %}
             </div>
         </div>

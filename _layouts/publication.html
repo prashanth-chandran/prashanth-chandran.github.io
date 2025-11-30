@@ -38,11 +38,12 @@ layout: default
             {% if page.codeurl %}
             <a href="{{ page.codeurl }}" class="btn btn--primary">Code</a>
             {% endif %}
-             {% if page.link %}
-            <a href="{{ page.link }}" class="btn btn--primary">Project Page</a>
+             {% if page.project_page %}
+            <a href="{{ page.project_page }}" class="btn btn--primary" style="text-decoration: underline;">Project Page</a>
             {% endif %}
             {% if page.bibtex %}
-            <button class="btn btn--primary btn--copy-bibtex" data-bibtex="{{ page.bibtex | escape }}">Copy Bibtex</button>
+            <button class="btn btn--primary btn--copy-bibtex" style="text-decoration: underline;">Copy Bibtex</button>
+            <textarea class="bibtex-content" hidden>{{ page.bibtex }}</textarea>
             {% endif %}
         </div>
 
@@ -66,12 +67,8 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% include post_pagination.html %}
-    </div>
 
-    {% if site.comments.provider and page.comments %}
-      {% include comments.html %}
-    {% endif %}
+    </div>
   </article>
 
 

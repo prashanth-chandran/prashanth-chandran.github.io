@@ -1,9 +1,10 @@
 ---
-title: An Implicit Physical Face Model Driven by Expression and Style"
+title: An Implicit Physical Face Model Driven by Expression and Style
 collection: publications
 permalink: /publication/2023e_physicsstyle
+project_page: https://studios.disneyresearch.com/2023/11/29/an-implicit-physical-face-model-driven-by-expression-and-style/
 teaser: /images/physicsstyle2023.png
-excerpt: We propose a new face model based on a data-driven implicit neural physics model that can be driven by both expression and style separately. At the core, we present a framework for learning implicit physics-based actuations for multiple subjects simultaneously, trained on a few arbitrary performance capture sequences from a small set of identities.  [[Project Page]](https://studios.disneyresearch.com/2023/11/29/an-implicit-physical-face-model-driven-by-expression-and-style/)<br>
+excerpt: We propose a new face model based on a data-driven implicit neural physics model that can be driven by both expression and style separately. At the core, we present a framework for learning implicit physics-based actuations for multiple subjects simultaneously, trained on a few arbitrary performance capture sequences from a small set of identities.
 date: 2023-11-23
 venue: 'Siggraph Asia'
 bibtex: "
@@ -28,5 +29,3 @@ bibtex: "
 <p>
 3D facial animation is often produced by manipulating facial deformation models (or rigs) that are traditionally parameterized by expression controls. A key component that is usually overlooked is expression “style”, as in, how a particular expression is performed. Although it is common to define a semantic basis of expressions that characters can perform, most characters perform each expression in their own style. To date, style is usually entangled with the expression, and it is not possible to transfer the style of one character to another when considering facial animation. We present a new face model, based on a data-driven implicit neural physics model, that can be driven by both expression and style separately. At the core, we present a framework for learning implicit physics-based actuations for multiple subjects simultaneously, trained on a few arbitrary performance capture sequences from a small set of identities. Once trained, our method allows generalized physics-based facial animation for any of the trained identities, extending to unseen performances. Furthermore, it grants control over the animation style, enabling style transfer from one character to another or blending styles of different characters. Lastly, as a physics-based model, it is capable of synthesizing physical effects, such as collision handling, setting our method apart from conventional approaches.
 </p>
-
-[Project Page](https://studios.disneyresearch.com/2023/11/29/an-implicit-physical-face-model-driven-by-expression-and-style/)

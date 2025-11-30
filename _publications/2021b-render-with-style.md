@@ -2,8 +2,9 @@
 title: "Rendering with Style: Combining Traditional and Neural Approaches for High-Quality Face Rendering"
 collection: publications
 permalink: /publication/2021b-render-with-style
+project_page: https://studios.disneyresearch.com/2021/11/30/rendering-with-style-combining-traditional-and-neural-approaches-for-high-quality-face-rendering/
 teaser: /images/rws2021.png
-excerpt: We propose to combine incomplete, high-quality renderings showing only facial skin with recent methods for neural rendering of faces, in order to automatically and seamlessly create photo-realistic full-head portrait renders from captured data without the need for artist intervention. [[Project Page]](https://studios.disneyresearch.com/2021/11/30/rendering-with-style-combining-traditional-and-neural-approaches-for-high-quality-face-rendering/)
+excerpt: We propose to combine incomplete, high-quality renderings showing only facial skin with recent methods for neural rendering of faces, in order to automatically and seamlessly create photo-realistic full-head portrait renders from captured data without the need for artist intervention.
 date: 2021-09-30
 venue: 'ACM SIGGRAPH Asia'
 bibtex: "
@@ -30,5 +31,3 @@ articleno = {223},
 <p>
 In this work we propose to combine incomplete, high-quality renderings showing only facial skin with recent methods for neural rendering of faces, in order to automatically and seamlessly create photo-realistic full-head portrait renders from captured data without the need for artist intervention. Our method begins with traditional face rendering, where the skin is rendered with the desired appearance, expression, viewpoint, and illumination. These skin renders are then projected into the latent space of a pre-trained neural network that can generate arbitrary photo-real face images (StyleGAN2). The result is a sequence of realistic face images that match the identity and appearance of the 3D character at the skin level, but is completed naturally with synthesized hair, eyes, inner mouth and surroundings.
 </p>
-
-[Project Page](https://studios.disneyresearch.com/2021/11/30/rendering-with-style-combining-traditional-and-neural-approaches-for-high-quality-face-rendering/)

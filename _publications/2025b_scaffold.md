@@ -2,8 +2,9 @@
 title: "ScaffoldAvatar: High-Fidelity Gaussian Avatars with Patch Expressions"
 collection: publications
 permalink: /publication/scaffold_2025
+project_page: https://studios.disneyresearch.com/2025/07/09/scaffoldavatar-high-fidelity-gaussian-avatars-with-patch-expressions/
 teaser: /images/scaffold_25.png
-excerpt: In this work, we propose to couple locally-defined facial expressions with 3D Gaussian splatting to enable creating ultra-high fidelity, expressive and photorealistic head avatars. [[Project Page]](https://studios.disneyresearch.com/2025/07/09/scaffoldavatar-high-fidelity-gaussian-avatars-with-patch-expressions/)<br><br><br>
+excerpt: In this work, we propose to couple locally-defined facial expressions with 3D Gaussian splatting to enable creating ultra-high fidelity, expressive and photorealistic head avatars.
 date: 2025-07-10
 venue: 'SIGGRAPH'
 bibtex: "
@@ -29,5 +30,3 @@ series = {SIGGRAPH Conference Papers '25}
 <p>
 Generating high-fidelity real-time animated sequences of photorealistic 3D head avatars is important for many graphics applications, including immersive telepresence and movies. This is a challenging problem particularly when rendering digital avatar close-ups for showing character’s facial microfeatures and expressions. To capture the expressive, detailed nature of human heads, including skin furrowing and finer-scale facial movements, we propose to couple locally-defined facial expressions with 3D Gaussian splatting to enable creating ultra-high fidelity, expressive and photorealistic head avatars. In contrast to previous works that operate on a global expression space, we condition our avatar’s dynamics on patch-based local expression features and synthesize 3D Gaussians at a patch level. In particular, we leverage a patch-based geometric 3D face model to extract patch expressions and learn how to translate these into local dynamic skin appearance and motion by coupling the patches with anchor points of Scaffold-GS, a recent hierarchical scene representation. These anchors are then used to synthesize 3D Gaussians on-the-fly, conditioned by patch-expressions and viewing direction. We employ color-based densification and progressive training to obtain high-quality results and faster convergence for high resolution 3K training images. By leveraging patch-level expressions, ScaffoldAvatar consistently achieves state-of-the-art performance with visually natural motion, while encompassing diverse facial expressions and styles in real time.
 </p>
-
-[Project Page](https://studios.disneyresearch.com/2025/07/09/scaffoldavatar-high-fidelity-gaussian-avatars-with-patch-expressions/)

@@ -4,7 +4,17 @@ document.addEventListener('DOMContentLoaded', function() {
     document.body.addEventListener('click', function(e) {
         if (e.target.classList.contains('btn--copy-bibtex')) {
             const btn = e.target;
-            const bibtex = btn.getAttribute('data-bibtex');
+            // Find the sibling textarea with class bibtex-content
+            const textarea = btn.nextElementSibling;
+            let bibtex = '';
+            
+            if (textarea && textarea.classList.contains('bibtex-content')) {
+                bibtex = textarea.value;
+            } else {
+                // Fallback or error handling if structure changes
+                console.error('Bibtex content not found');
+                return;
+            }
             
             if (!bibtex) return;
 
