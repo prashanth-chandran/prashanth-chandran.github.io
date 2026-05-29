@@ -62,7 +62,7 @@
 
     {% if post.bibtex %}
       <button class="btn btn--primary btn--copy-bibtex" style="text-decoration: underline;">Copy Bibtex</button>
-      <textarea class="bibtex-content" hidden>{{ post.bibtex }}</textarea>
+      <textarea class="bibtex-content" hidden style="display: none;">{{ post.bibtex }}</textarea>
     {% endif %}
     {% if post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>

@@ -3,7 +3,7 @@ title: "Representing 3D Faces with Learnable B-spline Volumes"
 collection: publications
 permalink: /publication/cube_2026
 project_page: https://prashanth-chandran.github.io/CUBE/
-paperurl: https://arxiv.org/abs/2604.12894
+paperurl: https://prashanth-chandran.github.io/CUBE/files/CUBE.pdf
 teaser: /images/cube2026.png
 excerpt: We present CUBE (Control-based Unified B-spline Encoding), a new geometric representation for human faces that combines B-spline volumes with learned features, and demonstrate its use as a decoder for 3D scan registration and monocular 3D face reconstruction.
 date: 2026-06-15

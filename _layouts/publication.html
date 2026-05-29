@@ -41,10 +41,6 @@ layout: default
              {% if page.project_page %}
             <a href="{{ page.project_page }}" class="btn btn--primary" style="text-decoration: underline;">Project Page</a>
             {% endif %}
-            {% if page.bibtex %}
-            <button class="btn btn--primary btn--copy-bibtex" style="text-decoration: underline;">Copy Bibtex</button>
-            <textarea class="bibtex-content" hidden>{{ page.bibtex }}</textarea>
-            {% endif %}
         </div>
 
       </header>
@@ -58,6 +54,15 @@ layout: default
         {% endif %}
         
         {{ content }}
+
+        {% if page.bibtex %}
+        <div class="publication-bibtex" style="margin-top: 2.5em; padding-top: 1.5em; border-top: 1px solid #eee;">
+            <h2>BibTeX</h2>
+            <pre><code style="white-space: pre-wrap; font-size: 0.85em; font-family: monospace; display: block; padding: 1em; background: #f7f7f7; border: 1px solid #e1e1e1; border-radius: 4px; overflow-x: auto;">{{ page.bibtex }}</code></pre>
+            <button class="btn btn--primary btn--copy-bibtex" style="text-decoration: underline; margin-top: 0.5em;">Copy Bibtex</button>
+            <textarea class="bibtex-content" hidden style="display: none;">{{ page.bibtex }}</textarea>
+        </div>
+        {% endif %}
       </section>
 
       <footer class="page__meta">
